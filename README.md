@@ -1,16 +1,16 @@
-# Vancouver Datajam 2021 Project template 
+# Vancouver Datajam 2023 Project template 
 
 This repository contains a Python project template.
 
-## Project title
+## Project title : Fossil Fuel Subsidies, Investments & policy analysis
 
-## Project statement
+## Project statement : 
 
 ## Project team members
 
-Team lead:
+Team lead: Sandeep Mehra
 
-Mentor:
+Mentor: Dianne
 
 Documentation:
 
