@@ -10,7 +10,7 @@ This repository contains a Python project template.
 
 Team lead: Sandeep Mehra
 
-Mentor: Dianne
+Mentor: Diana Lin
 
 Documentation:
 
