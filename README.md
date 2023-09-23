@@ -28,7 +28,9 @@ Sanity checking:
 📅 September 22
 
 6:30 PM: Online Opening Ceremony
+
 7:00 PM: Project Release/Hacking Begins
+
 8:30 PM: Activity 1: Datajam Trivia @ ⁠trivia
 
 📅 September 23
