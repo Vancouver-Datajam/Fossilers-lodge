@@ -22,13 +22,7 @@ Team lead: Sandeep Mehra
 
 Mentor: Diana Lin
 
-Documentation:
-
-Scripting:
-
-Modelling: 
-
-Sanity checking: 
+Hackers: Alejandro & Namrata
 
 ## Vancouver Datajam 2021 Schedule:
 
