@@ -2,7 +2,7 @@
 
 Use this directory to store documentation related to your project:
 
-1. Project statement(s) :
+Project statement(s) :
 Our aim with this project is to work towards following:
 
 Comprehensive Data Compilation: Compile and organize data on RD&D budgets, energy investments, and subsidies across countries and energy sectors into a unified and accessible database.
@@ -19,4 +19,7 @@ Subsidy Efficiency Evaluation: Assess the efficiency of subsidies provided to di
 
 
 The 2 documents with all the details are attached as PDF: 
-1. 
+
+1.	Final Presentation: https://gamma.app/docs/Energy-Technology-Financial-Breakdown-zpk2bxfdhyx75dn
+
+2. Requirements Doc: https://docs.google.com/document/d/1KDYe2gFX6C_EarZ8Sw2s-vbDzBKtTw36mYxHzcnno5w/edit 
