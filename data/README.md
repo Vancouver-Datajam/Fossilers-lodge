@@ -8,7 +8,8 @@ Data sources selected for this analysis are publicly available on different sour
 
 2. IEA Fossil Fuel subsidies - 
 	(Fossil fuel consumption subsidies for select countries, 2010-2021)
-		https://www.iea.org/data-and-statistics/data-product/fossil-fuel-subsidies-database
+		
+        https://www.iea.org/data-and-statistics/data-product/fossil-fuel-subsidies-database
 
 	Additional Fossil fuel Subsidy data from other sources than IEA
 		
@@ -21,5 +22,6 @@ Data sources selected for this analysis are publicly available on different sour
         https://ourworldindata.org/grapher/fossil-fuel-subsidies-per-capita
 
 3.	IEA Investments data from year 2023 - 
-		https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2023-datafile-2 
+		
+        https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2023-datafile-2 
 
