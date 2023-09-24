@@ -35,7 +35,7 @@ Yen-Hsiang (Brian) Lee
 Iruoma Nwabuzor
 
 
-**Final Presentation**: _________
+**Final Presentation**: https://gamma.app/docs/Energy-Technology-Financial-Breakdown-zpk2bxfdhyx75dn
 
 **Requirements Doc**:	https://docs.google.com/document/d/1KDYe2gFX6C_EarZ8Sw2s-vbDzBKtTw36mYxHzcnno5w/edit
 
