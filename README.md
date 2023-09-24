@@ -18,11 +18,11 @@ Our aim with this project is to work towards following:
 
 ## Project team members
 
-Team lead: Sandeep 
+**Team lead**: Sandeep 
 
-Mentor: Diana Lin
+**Mentor**: Diana Lin
 
-Hackers: 
+**Hackers**: 
 
 Namrata Joshi
 
