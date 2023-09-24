@@ -1,6 +1,8 @@
-# Vancouver Datajam 2023 Project template 
-
+# Vancouver Datajam 2023 Project by team Fossilers-lodge
+********************************
 ## Project title: Energy Technology Budgets, Subsidies & Investments Analysis
+********************************
+
 
 ## Problem statement(s) : 
 Our aim with this project is to work towards following: 
