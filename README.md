@@ -35,6 +35,12 @@ Yen-Hsiang (Brian) Lee
 Iruoma Nwabuzor
 
 
+**Final Presentation**: _________
+
+**Requirements Doc**:	https://docs.google.com/document/d/1KDYe2gFX6C_EarZ8Sw2s-vbDzBKtTw36mYxHzcnno5w/edit
+
+
+
 ## Vancouver Datajam 2023 Schedule:
 
 ### Main page: https://vancouverdatajam.ca/
