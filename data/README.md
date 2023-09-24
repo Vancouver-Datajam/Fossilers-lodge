@@ -11,10 +11,14 @@ Data sources selected for this analysis are publicly available on different sour
 		https://www.iea.org/data-and-statistics/data-product/fossil-fuel-subsidies-database
 
 	Additional Fossil fuel Subsidy data from other sources than IEA
-		https://fossilfuelsubsidytracker.org/	
-		https://ourworldindata.org/grapher/fossil-fuel-subsidies	
-		https://ourworldindata.org/grapher/fossil-fuel-subsidies-gdp
-		https://ourworldindata.org/grapher/fossil-fuel-subsidies-per-capita
+		
+        https://fossilfuelsubsidytracker.org/	
+		
+        https://ourworldindata.org/grapher/fossil-fuel-subsidies	
+		
+        https://ourworldindata.org/grapher/fossil-fuel-subsidies-gdp
+		
+        https://ourworldindata.org/grapher/fossil-fuel-subsidies-per-capita
 
 3.	IEA Investments data from year 2023 - 
 		https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2023-datafile-2 
