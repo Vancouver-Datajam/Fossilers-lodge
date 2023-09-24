@@ -23,10 +23,15 @@ Team lead: Sandeep
 Mentor: Diana Lin
 
 Hackers: 
+
 Namrata Joshi
+
 Alejandro Leiva
+
 Mrinal Goshalia
+
 Yen-Hsiang (Brian) Lee
+
 Iruoma Nwabuzor
 
 
