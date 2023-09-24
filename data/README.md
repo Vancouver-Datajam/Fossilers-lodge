@@ -6,8 +6,8 @@ Data sources selected for this analysis are publicly available on different sour
 
 		https://www.iea.org/data-and-statistics/data-product/energy-technology-rd-and-d-budget-database-2
 
-2. IEA Fossil Fuel subsidies - (Fossil fuel consumption subsidies for select countries, 2010-2021
-)
+2. IEA Fossil Fuel subsidies - 
+	(Fossil fuel consumption subsidies for select countries, 2010-2021)
 		https://www.iea.org/data-and-statistics/data-product/fossil-fuel-subsidies-database
 
 	Additional Fossil fuel Subsidy data from other sources than IEA
