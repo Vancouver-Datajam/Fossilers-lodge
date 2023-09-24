@@ -13,21 +13,27 @@ Our aim with this project is to work towards following:
 
 *Sector-Specific Insights*: Provide sector-specific insights into RD&D budgets, investments, and subsidies, enabling targeted strategies for sectors such as renewables, fossil fuels, and energy efficiency.
 
-**Nice to have** *Subsidy Efficiency Evaluation*: Assess the efficiency of subsidies provided to different energy sectors in achieving sustainability and emissions reduction goals, offering recommendations for optimization.
+*Subsidy Efficiency Evaluation*: Assess the efficiency of subsidies provided to different energy sectors in achieving sustainability and emissions reduction goals, offering recommendations for optimization.
 
 
 ## Project team members
 
-Team lead: Sandeep Mehra
+Team lead: Sandeep 
 
 Mentor: Diana Lin
 
-Hackers: Alejandro & Namrata
+Hackers: 
+Namrata Joshi
+Alejandro Leiva
+Mrinal Goshalia
+Yen-Hsiang (Brian) Lee
+Iruoma Nwabuzor
 
-## Vancouver Datajam 2021 Schedule:
+
+## Vancouver Datajam 2023 Schedule:
 
 ### Main page: https://vancouverdatajam.ca/
-#### Event format: 100% online
+
 
 #### Important dates: 
 
