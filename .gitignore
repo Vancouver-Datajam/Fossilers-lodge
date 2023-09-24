@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.vectorized_metadata
+.noteablekeep
+__pycache__
+.tmp/
+*.vectorized_content

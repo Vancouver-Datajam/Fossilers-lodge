@@ -1,7 +1,27 @@
 # Data directory
 
-It is preferable that you list your data sources in this readme. **Do not store other organization's data in this repository unless you made significant changes to it and you are comfortable with others accessing it.**
+Data sources selected for this analysis are publicly available on different source listed below: 
 
-Data sources selected for the event are public. Check the licenses of these data sources to ensure you give proper attribution and indicate what changes you made. 
+1. IEA RD&D Budgets (Data is collected from central or federal government budgets, as well as the budgets of state-owned companies, for spending on a range of sectors including energy efficiency, renewables, nuclear power, fossil fuels, hydrogen and fuel cells, and more) 
 
-You can also use this directory to document how you processed the data. 
+		https://www.iea.org/data-and-statistics/data-product/energy-technology-rd-and-d-budget-database-2
+
+2. IEA Fossil Fuel subsidies - 
+	(Fossil fuel consumption subsidies for select countries, 2010-2021)
+		
+        https://www.iea.org/data-and-statistics/data-product/fossil-fuel-subsidies-database
+
+	Additional Fossil fuel Subsidy data from other sources than IEA
+		
+        https://fossilfuelsubsidytracker.org/	
+		
+        https://ourworldindata.org/grapher/fossil-fuel-subsidies	
+		
+        https://ourworldindata.org/grapher/fossil-fuel-subsidies-gdp
+		
+        https://ourworldindata.org/grapher/fossil-fuel-subsidies-per-capita
+
+3.	IEA Investments data from year 2023 - 
+		
+        https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2023-datafile-2 
+
