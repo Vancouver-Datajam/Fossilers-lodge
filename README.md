@@ -18,9 +18,9 @@ Our aim with this project is to work towards following:
 
 ## Project team members
 
-**Team lead**: Sandeep 
-
 **Mentor**: Diana Lin
+
+**Team lead**: Sandeep 
 
 **Hackers**: 
 
